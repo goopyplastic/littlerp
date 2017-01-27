@@ -1,5 +1,6 @@
 # LittleRP
-LittleRP Open Source Resin Printer
+LittleRP Open Source Resin Printer  
+www.littlerp.com
 
 --
 

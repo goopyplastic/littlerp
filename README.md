@@ -1,6 +1,16 @@
 # LittleRP
 LittleRP Open Source Resin Printer
 
+DXF - DXF files for lasercut parts.
+
+FIRMWARE - GRBL .8a hex file and values.
+
+PCB - Gerber files for arduino shield.
+
+PONOKO_READY - SVG's based off Ponoko inkscape templates.
+
+STL - STL files for 3D printed parts.
+
 LittleRP Hardware / Software is licensed under the Creative Commons BY-SA 3.0 or greater license: https://creativecommons.org/licenses/by-sa/3.0/
 
 You are free to:

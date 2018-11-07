@@ -1,3 +1,6 @@
+You probably want the LittleRP2 printer at this point:
+https://github.com/goopyplastic/littlerp2
+
 # LittleRP
 LittleRP Open Source Resin Printer  
 www.littlerp.com

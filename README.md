@@ -1,5 +1,5 @@
 You probably want the LittleRP2 printer at this point:
-github.com/goopyplastic/littlerp2
+www.github.com/goopyplastic/littlerp2
 
 # LittleRP
 LittleRP Open Source Resin Printer  
